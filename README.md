@@ -45,5 +45,7 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=HusnulM&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HusnulM&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusnulM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
