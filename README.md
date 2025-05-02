@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HusnulM&theme=dark)](https://git.io/streak-stats)
+https://streak-stats.demolab.com/?user=HusnulM&theme=dark
