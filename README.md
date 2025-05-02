@@ -18,9 +18,13 @@
 
 
 
-## Hi there 👋
+## Hi there, Welcome to My Github Repository! 👋
 
+---
 
+### 🙇‍♂️: About Me :
+I am a SAP ABAP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+- :telescope: I’m working as a ABAP Developer on Mining Industry.
 <!--
 **HusnulM/HusnulM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,3 +39,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HusnulM&theme=dark&background=000000)](https://git.io/streak-stats)
