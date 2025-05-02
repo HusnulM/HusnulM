@@ -1,8 +1,22 @@
-## Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/husnul-m-163452126/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-youtube-URL](https://www.youtube.com/@husnulmub9956)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-blogger-URL](https://husnulmshare.blogspot.com/)">
+    <img src="https://img.shields.io/badge/Blogger-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+  </a>
+</div>
+
+## Hi there 👋
+
+
 <!--
 **HusnulM/HusnulM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
