@@ -18,7 +18,7 @@
 
 
 
-## Hi there, Welcome to My Github Repository! 👋
+# Hi there, Welcome to My Github Repository! 👋
 
 ---
 
@@ -43,8 +43,5 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HusnulM" width="100%">
-
-### :fire: Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=HusnulM&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
