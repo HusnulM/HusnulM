@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://husnulmshare.blogspot.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Blogger-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+      <img src="https://img.shields.io/badge/Blogger-oange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
     </a>
   </div>
 
