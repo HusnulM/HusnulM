@@ -11,6 +11,9 @@
     <a href="https://husnulmshare.blogspot.com/" target="_blank">
       <img src="https://img.shields.io/badge/Blogger-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
     </a>
+    <a href="https://toekangketik.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Wordpress Badge"/>
+    </a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=HusnulM&style=flat-square&color=blue" alt=""/>
