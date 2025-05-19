@@ -27,7 +27,7 @@
 
 ### 🙇‍♂️: About Me :
 I am a SAP ABAP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a ABAP Developer in Mining Industry.
+- :telescope: I’m working as a ABAP Developer.
 <!--
 **HusnulM/HusnulM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
